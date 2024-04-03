@@ -1,7 +1,7 @@
 ---
 date: '2017-11-01'
 title: 'Intern Developer'
-company: 'Across The Globe (ATG)'
+company: 'ATG'
 location: 'Bangalore, KA'
 range: 'October - November 2017'
 url: 'https://www.atg.world/'
