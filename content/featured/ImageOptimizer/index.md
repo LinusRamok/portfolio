@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Image Optimizer'
-cover: './demo.jpg'
+cover: './Imgoptimize.jpg'
 github: 'https://github.com/LinusRamok/Image-Optimizer'
 external: 'https://www.npmjs.com/package/image-format-optimizer'
 tech:
