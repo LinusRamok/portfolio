@@ -76,7 +76,7 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://github.com/LinusRamok/SunilKumarDunna/raw/main/assets/SunilKumar2024.pdf"
+      href="https://github.com/LinusRamok/SunilKumarDunna/raw/main/assets/SunilKumarDunna.pdf"
       target="_blank"
       rel="noreferrer">
       Download my Resume!
