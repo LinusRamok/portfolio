@@ -206,7 +206,7 @@ const Nav = ({ isHome }) => {
   );
 
   const ResumeLink = (
-    <a className="resume-button" href="https://github.com/LinusRamok/SunilKumarDunna/raw/main/assets/SunilKumar2024.pdf" target="_blank" rel="noopener noreferrer">
+    <a className="resume-button" href="https://github.com/LinusRamok/SunilKumarDunna/raw/main/assets/SunilKumarDunna.pdf" target="_blank" rel="noopener noreferrer">
       Resume
     </a>
   );
